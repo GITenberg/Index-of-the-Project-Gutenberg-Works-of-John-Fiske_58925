@@ -1,0 +1,31 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-John-Fiske_58925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fiske, John
+    aliases:
+    - Fisk, John
+    - Green, Edmund Fisk
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: http://en.wikipedia.org/wiki/John_Fiske
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of John Fiske
+url: http://www.gutenberg.org/ebooks/58925
